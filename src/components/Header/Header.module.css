@@ -1,0 +1,22 @@
+.headerOfMain {
+  border-radius: 0.3cm;
+  grid-area: header;
+  background-color: rgb(255, 0, 68);
+  border: 0.5em solid rgba(0, 0, 0, 0.138);
+}
+.headerOfMain img {
+  width: 35.8px;
+
+  background-color: rgb(255, 0, 68);
+}
+.login_block{
+  color: white;
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 12px;
+  text-decoration: none;
+}
+.login_block a{
+  text-decoration: none;
+  color: white;
+}

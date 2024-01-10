@@ -1,0 +1,10 @@
+.styleOf{
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.styleOfAva img{
+    border: 0.25em solid rgb(255, 255, 255);
+    border-radius: 0.5cm;
+    width: 10%;
+
+}

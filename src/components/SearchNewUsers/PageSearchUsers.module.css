@@ -1,0 +1,45 @@
+.padding{
+    padding: 10px;
+}
+
+.userphoto{
+    width: 100px;
+    border: 0.2em solid rgb(255, 255, 255);
+    border-radius: 0.5cm;
+
+}
+.selectedpages{
+    font-size: x-large;
+    padding:  5px;
+}
+.margin{
+    margin: 5px;
+}
+.buttonFollow{
+    background-color: crimson;
+    color: white;
+    border: none;
+    font-size: 12px;
+    width: 105px;
+    height: 25px;
+    size: 24px;
+    border-radius: 0.2em;
+    transition-duration: 0.2s;
+}
+.buttonFollow:hover{
+    border-radius: 0.20cm;
+    color: gold;
+
+}
+.wrapper{
+    display: grid;
+    grid-template-columns: 3fr 3fr 3fr;
+    grid-row: auto;
+}
+.gridtext{    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bordergrid{
+    border: 0.1em solid white;
+}

@@ -1,0 +1,40 @@
+.post {
+  border-radius: 0.3cm;
+  padding: 10px;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: rgb(255, 0, 68);
+  border: 0.5em solid rgba(0, 0, 0, 0.138);
+}
+.item {
+  padding: 10px;
+}
+.pad {
+  color: white;
+  text-shadow: rgba(0, 0, 0, 0.138) 2px 2px 1px;
+  padding-left: 10px;
+}
+.buttonFollow {
+  background-color: crimson;
+  color: white;
+  border: none;
+  font-size: 12px;
+  width: 170px;
+  height: 25px;
+  size: 24px;
+  border-radius: 0.2em;
+  transition-duration: 0.2s;
+}
+.buttonFollow:hover {
+  border-radius: 0.2cm;
+  color: gold;
+}
+.textarea {
+  color: #000000;
+  background-color: rgb(255, 255, 255);
+  white-space: nowrap;
+  border-radius: 0.3em;
+  resize: vertical;
+  width: 162px;
+  border: none;
+}

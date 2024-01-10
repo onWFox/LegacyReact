@@ -1,0 +1,18 @@
+.picture img {
+  width: 45px;
+  border-radius: 1em;
+}
+.pictur {
+  padding: 5px;
+  
+  color:rgb(255, 255, 255);
+  
+}
+.textleft {
+  text-align: left;
+}
+.flexpic{
+  display: grid;
+  grid-template-columns: 2fr 2fr
+  
+}

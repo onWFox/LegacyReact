@@ -1,0 +1,39 @@
+.nav_bar {
+  border-radius: 0.3cm;
+  text-align: center;
+
+  grid-area: navbar;
+  align-self: flex-start;
+
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(255, 0, 68);
+  border: 0.5em solid rgba(0, 0, 0, 0.138);
+}
+.item {
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+
+}
+
+.active {
+  color: gold;
+  text-decoration: none;
+}
+
+
+
+.picture img{
+  
+  width: 45px;
+  border-radius: 1em;
+}
+.pictur{
+  padding: 5px;
+}
+.flexpic{
+  display: flex;
+}
+.textleft{
+  text-align: left;
+}
